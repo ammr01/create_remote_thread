@@ -1,3 +1,7 @@
+
+//compile it use `g++ source-proc.cpp -o source-proc.exe`
+//run it using `source-proc.exe "target process ID (PID)"`
+
 #include <Windows.h>
 
 int main(int argc, char** argv) {
